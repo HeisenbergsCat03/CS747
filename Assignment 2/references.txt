@@ -1,0 +1,3 @@
+how PuLP works - https://www.geeksforgeeks.org/python-linear-programming-in-pulp/
+
+argparse documentation for inputs https://docs.python.org/3/library/argparse.html
